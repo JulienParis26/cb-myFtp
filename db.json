@@ -1,0 +1,18 @@
+[
+    {
+        "username" : "anonymous",
+        "password" : "anonymous"
+    },
+    {
+        "username" : "julien",
+        "password" : "paris"
+    },
+    {
+        "username" : "hello",
+        "password" : "world"
+    },
+    {
+        "username" : "toto",
+        "password" : "titi"
+    }
+]
